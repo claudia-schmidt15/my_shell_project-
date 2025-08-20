@@ -1,12 +1,12 @@
 # my_shell_project-
 
-**Overview**
+## Overview
 
 August to December 2024, Systems Programming (CS 350), Emory University 
 
 This project is a custom Unix-like shell implemented in C. It provides a command-line interface where users can run programs, manage I/O redirection, chain processes with pipes, and control foreground/background execution. It was built to deepen understanding of system calls, process management, signals, and inter-process communication in Unix-based operating systems.
 
-**Features**
+## Features
 - Command parsing
   - Handles multiple arguments and commands.
   - Supports up to 10 piped commands in a single line.
