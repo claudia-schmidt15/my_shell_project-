@@ -1,6 +1,6 @@
 # my_shell_project-
 
-# Overview
+**Overview**
 
 August to December 2024, Systems Programming (CS 350), Emory University 
 
