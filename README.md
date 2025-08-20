@@ -9,9 +9,9 @@ Features
   - Handles multiple arguments and commands.
   - Supports up to 10 piped commands in a single line.
 - I/O Redirection
-  - < redirect input from a file.
-  - > redirect output to a file (overwrite).
-  - >> redirect output to a file (append).
+  - '<' redirect input from a file.
+  - '>' redirect output to a file (overwrite).
+  - '>>' redirect output to a file (append).
 - Pipes (|)
   - Chain multiple commands together where the output of one command becomes the input of the next.
 - Background Execution (&)
