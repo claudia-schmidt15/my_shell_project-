@@ -2,6 +2,8 @@
 
 # Overview
 
+August to December 2024, Systems Programming (CS 350), Emory University 
+
 This project is a custom Unix-like shell implemented in C. It provides a command-line interface where users can run programs, manage I/O redirection, chain processes with pipes, and control foreground/background execution. It was built to deepen understanding of system calls, process management, signals, and inter-process communication in Unix-based operating systems.
 
 Features
